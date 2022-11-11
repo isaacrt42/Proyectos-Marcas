@@ -1,0 +1,45 @@
+#p01 {
+    vertical-align: top;
+    font-size: 31px;
+}
+
+#p02 {
+    vertical-align: -45px;
+    font-size: 60px;
+    color: green;
+}
+
+#p03 {
+    vertical-align: 20px;
+    font-size: 30px;
+    color: red;
+}
+
+#p04 {
+    font-size: small;
+}
+
+#p05 {
+    font-size: xx-small;
+    vertical-align: 2px;
+}
+
+#p06 {
+    font-size: xx-small;
+    vertical-align: 5px;
+}
+
+#p07 {
+    vertical-align: -5px;
+}
+
+#p08 {
+    color: green;
+    font-size: 25px;
+    vertical-align: -15px;
+}
+
+#p09 {
+    color: blue;
+    vertical-align: 5px;
+}

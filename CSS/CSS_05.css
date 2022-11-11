@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(222, 222, 222);
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+#h01 {
+    text-align: center;
+    letter-spacing: 7px;
+}
+
+#h02 {
+    margin-left: 5px;
+    color: white;
+    background-color: gray;
+}

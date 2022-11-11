@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(222, 222, 222);
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+#p01 {
+    background-color: rgb(179, 179, 179);
+}
+
+
+#p02 {
+    background-color: rgb(194, 194, 194);
+}
+
+#p03 {
+    background-color: rgb(194, 194, 194);
+}
+
+#p04 {
+    background-color: rgb(194, 194, 194);
+}
+
+#p05 {
+    font-size: smaller;
+    text-align: right;
+    background-color: rgb(255, 255, 255);
+}
+
+#p06 {
+    background-color: rgb(194, 194, 194);
+}
+
+#p07 {
+    background-color: rgb(194, 194, 194);
+}
+
+#p08 {
+    background-color: rgb(188, 186, 197);
+}
+
+#h01 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#h02 {
+    color: rgb(95, 95, 95);
+    background-color: rgb(154, 151, 171);
+    text-decoration: underline;
+}
+
+#h03 {
+    color: rgb(95, 95, 95);
+    background-color: rgb(154, 151, 171);
+    text-decoration: underline;
+}
+
+#h04 {
+    color: rgb(95, 95, 95);
+    background-color: rgb(154, 151, 171);
+    text-decoration: underline;
+}
+
+#h05 {
+    color: rgb(95, 95, 95);
+    background-color: rgb(175, 170, 204);
+    font-style: italic;
+}
