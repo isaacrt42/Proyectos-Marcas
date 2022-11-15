@@ -1,6 +1,8 @@
 body{
     background-color: rgb(222, 222, 222);
     font-family: 'Trebuchet MS', sans-serif;
+    margin-right: 50px;
+        margin-left: 40px;
 }
 
 #h01 {
@@ -10,6 +12,57 @@ body{
 
 #h02 {
     margin-left: 5px;
+    height: 30px;
+        align-content: center;
+        vertical-align: middle;
     color: white;
     background-color: gray;
+}
+#h03 {
+    margin-left: 5px;
+    margin-top: 100px;
+    align-content: center;
+    vertical-align: middle;
+    height: 30px;
+    color: white;
+    background-color: gray;
+}
+
+#img01 {
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#img02 {
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#i01 {
+    color: red;
+}
+
+#b01 {
+    font-size: 17px;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
+
+#b02 {
+    font-style: normal;
+}
+
+#span01 {
+    color: red;
+    font-style: italic;
+}
+
+#fig01 {
+    color: aliceblue;
+}
+
+#fig02 {
+    color: aliceblue;
 }

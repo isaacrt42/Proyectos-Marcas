@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(189, 231, 231);
+    font-family: 'Trebuchet MS', sans-serif;
+    margin-right: 3%;
+    margin-left: 1%;
+}
+
+#h01 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px
+}
+
+#h02{
+    font-weight: bolder;
+    font-size: xx-large;
+    background-color: rgb(94, 141, 212);
+    height:fit-content;
+}
+
+#h03{
+    font-weight: bolder;
+    font-size: xx-large;
+    background-color: rgb(94, 141, 212);
+    height:fit-content;
+}
+
+#h04{
+    font-weight: bolder;
+    font-size: xx-large;
+    background-color: rgb(94, 141, 212);
+    height:fit-content;
+}
+
+#span01 {
+    margin-left: 6%;
+}
+
+#span02 {
+    margin-left: 6%;
+}
+
+#span03 {
+    margin-left: 6%;
+}
