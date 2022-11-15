@@ -1,0 +1,116 @@
+body {
+    background-color: rgb(238, 238, 228);
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+#h01 {
+    text-align: center;
+    color: rgb(65, 65, 65);
+}
+
+#p01 {
+    background-color: rgb(204, 204, 197);
+}
+
+#h02 {
+    color: red;
+    background-color: rgb(152, 152, 146);
+}
+
+#p02 {
+    background-color: rgb(204, 204, 197);
+}
+
+#i01 {
+    font-style: normal;
+    color: blue;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-decoration-style:solid ;
+}
+
+#i02 {
+    font-style: normal;
+    color: blue;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-decoration-style:solid ;
+}
+
+#i03 {
+    font-style: normal;
+    color: blue;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-decoration-style:solid ;
+}
+
+#i04 {
+    font-style: normal;
+    color: blue;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-decoration-style:solid ;
+}
+
+#i05 {
+    font-style: normal;
+    color: blue;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-decoration-style:solid ;
+}
+
+#i06 {
+    font-style: normal;
+    color: blue;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-decoration-style:solid ;
+}
+
+#h03 {
+    color: red;
+    background-color: rgb(152, 152, 146);
+}
+
+#h04 {
+    color: red;
+    background-color: rgb(152, 152, 146);
+}
+
+#p03 {
+    background-color: rgb(204, 204, 197);
+}
+
+#b01 {
+    color: rgb(74, 174, 74)
+}
+
+#b02 {
+    color: rgb(74, 174, 74)
+}
+
+#b03 {
+    color: rgb(74, 174, 74)
+}
+
+#b04 {
+    color: rgb(74, 174, 74)
+}
+
+#b05 {
+    color: rgb(74, 174, 74)
+}
+
+#b06 {
+    color: rgb(74, 174, 74)
+}
+
+#p04 {
+    background-color: rgb(204, 204, 197);
+}
+
+#span01 {
+    background-color: yellow;
+}
