@@ -1,0 +1,59 @@
+body {
+    background-color: #c6d9ee;
+}
+
+#h01 {
+    text-align: right;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#span01 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: red;
+}
+
+#span02 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bolder;
+    color: red;
+}
+
+#span03 {
+    color: #f79b53;
+
+}
+
+#span04 {
+    background-color: white;
+    color: #86ac55;
+    font-style: italic;
+}
+
+#span05 {
+    background-color: white;
+    color: #86ac55;
+    font-style: italic;
+}
+
+#span06 {
+    background-color: white;
+    color: #86ac55;
+    font-style: italic;
+}
+
+#h02 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#h03 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#b01 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: red;
+}
+
+#b02 {
+    color: #f79b53;
+}
