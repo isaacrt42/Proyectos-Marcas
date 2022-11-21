@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Open+Sans:ital,wght@1,300&family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Mukta:wght@300&family=Ubuntu:wght@300&display=swap');
+
+body {
+    background-color: rgb(111, 158, 199);
+    font-family: 'Mukta', sans-serif;
+    text-align: center;
+}
+
+#h01 {
+    font-size: 40px;
+    letter-spacing: 5px;
+    border-style:dashed;
+    border-radius: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: rgb(110, 233, 240);
+}
+
+#h02 {
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+
+#span01 {
+    font-weight: 900;
+}
+
+#span02 {
+    font-weight: 900;
+}
+
+#span03 {
+    font-weight: 900;
+}
