@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Open+Sans:ital,wght@1,300&family=Permanent+Marker&display=swap');
+
+body {
+    background-color: #EECCAA;
+}
+
+#h11 {
+    font-family: 'Fascinate Inline', cursive;
+    text-align: center;
+    letter-spacing: 11px;
+}
+
+#p01 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-weight: 500;
+    margin-right: 27%;
+    margin-left: 27%;
+    font-size: 12px;
+}
+
+#b01 {
+    font-style: italic;
+    font-size: 14px;
+    font-weight: 900;
+}
+
+#h01 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 26px;
+}
+
+#h03 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 26px;
+}
+
+#h05 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 26px;
+}
+
+#h07 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 26px;
+}
+
+#h09 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 26px;
+}
+
+#h02 {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    text-align: right;
+    font-style: italic;
+    font-weight: 500;
+}
+
+#h04 {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    text-align: right;
+    font-style: italic;
+    font-weight: 500;
+}
+
+#h06 {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    text-align: right;
+    font-style: italic;
+    font-weight: 500;
+}
+
+#h08 {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    text-align: right;
+    font-style: italic;
+    font-weight: 500;
+}
+
+#h10 {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    text-align: right;
+    font-style: italic;
+    font-weight: 500;
+}
+
+
+
