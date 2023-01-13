@@ -1,0 +1,39 @@
+body {
+    background-color:
+    #f9dfc8;
+
+}
+
+table {
+    align-content: center;
+    text-align: center;
+}
+
+.dia {
+    background-color:
+    #b0d9e6;
+    border-bottom-color:
+    #ad92db ;
+    border-bottom-style: solid;
+}
+
+
+#vacio {
+    background-color: #f9dfc8;
+    border-style: hidden;
+    border-collapse: collapse;
+}
+
+.numero {
+    border-collapse: collapse;
+    background-color: #f9dfc8;
+    border-color: #dac8b8;
+    border-spacing: 1px;
+}
+
+.finde {
+    border-collapse: collapse;
+    background-color: #fcc3b9;
+    border-color: #dac8b8;
+    border-spacing: 1px;
+}
